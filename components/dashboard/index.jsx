@@ -16,7 +16,7 @@ const Dashboard = () => {
             <Details title="Income" />
             <Details title="Expense" />
           </div>
-          
+
           <div className=' form mt-2'>
             <Transaction />
           </div>
